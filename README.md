@@ -1,94 +1,25 @@
-# Hi, I'm devphu 👋
-
-<div align="center">
-
-### **Fullstack Developer & AI Enthusiast**
-*Crafting scalable solutions with cutting-edge technologies*
-
-</div>
-
-## 🚀 About Me
-
-I'm a passionate developer who loves building robust applications using modern tech stacks. My expertise spans across full-stack development, real-time systems, and AI integration.
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### **Frontend**
-<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,nextjs" />
-
-### **Backend**  
-<img src="https://skillicons.dev/icons?i=java,spring,redis,nodejs" />
-
-### **AI & Real-time**
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-<span style="background:#333;padding:4px 8px;border-radius:4px;color:white;font-size:12px;">WebRTC</span>
-
-### **DevOps & Tools**
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,aws,mysql" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
+  Hi, I'm devphu 👋
+  <div align="">
+  Fullstack Developer & AI Enthusiast
+  Crafting scalable solutions with cutting-edge technologies
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devphu&layout=compact&theme=radical&hide=html,css&hide_border=true)
+  </div>
+  🚀 About Me
+  I'm a passionate developer who loves building robust applications using modern tech stacks. My expertise spans across full-stack development, real-time systems, and AI integration.
 
-</div>
+💻 Tech Stack
+<div align="">
+Frontend & Backend
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(183deg) brightness(98%) contrast(92%);" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" /> </div>
+AI & Real-time
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50" alt="OpenCV" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" /> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="50" height="50" alt="WebRTC" style="background: #333; padding: 8px; border-radius: 8px;" /> </div>
+DevOps & Tools
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50" alt="Kafka" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" /> </div></div>
 
----
-
-## 🛠 Featured Projects
-
-<div style="display: flex; gap: 1rem; justify-content: space-between; flex-wrap: wrap;">
-
-<div style="flex: 1; min-width: 250px;">
-<h3>🎯 Pickleball AI</h3>
-<p><em>Intelligent coaching platform with real-time analytics</em></p>
-<p><code>React</code> <code>Spring Boot</code> <code>TensorFlow</code> <code>WebRTC</code></p>
-<p>Real-time video analysis • AI-powered coaching • Performance tracking</p>
-</div>
-
-<div style="flex: 1; min-width: 250px;">
-<h3>⚡ EV Dealer Platform</h3>
-<p><em>Comprehensive electric vehicle marketplace</em></p>
-<p><code>React</code> <code>Spring Boot</code> <code>MySQL</code> <code>Docker</code></p>
-<p>Vehicle marketplace • Dealer management • Analytics dashboard</p>
-</div>
-
-<div style="flex: 1; min-width: 250px;">
-<h3>💎 Sale Diamond</h3>
-<p><em>Advanced jewelry e-commerce platform</em></p>
-<p><code>React</code> <code>Spring Boot</code> <code>Kafka</code> <code>Redis</code></p>
-<p>Order management • Real-time analytics • Inventory system</p>
-</div>
-
-</div>
-
----
-
-## 📬 Get In Touch
-
-<div align="center" style="display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap;">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phudz25022005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devphu)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devphu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-</div>
-
----
-
+🛠 Featured Projects
+<div style="display: flex; gap: 2rem; justify-content: space-between; flex-wrap: wrap; align-items: stretch;"><div style="flex: 1; min-width: 300px; background: #f8f9fa; padding: 1.5rem; border-radius: 12px; border-left: 4px solid #667eea; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"> <h3>🎯 Pickleball AI</h3> <p><em>Intelligent coaching platform with real-time analytics</em></p> <div style="margin: 1rem 0;"> <span style="background: #667eea; color: white; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem; display: inline-block; margin: 0.2rem;">React</span> <span style="background: #667eea; color: white; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem; display: inline-block; margin: 0.2rem;">Spring Boot</span> <span style="background: #667eea; color: white; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem; display: inline-block; margin: 0.2rem;">TensorFlow</span> <span style="background: #667eea; color: white; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem; display: inline-block; margin: 0.2rem;">WebRTC</span> </div> <p>Real-time video analysis • AI-powered coaching • Performance tracking</p> </div><div style="flex: 1; min-width: 300px; background: #f8f9fa; padding: 1.5rem; border-radius: 12px; border-left: 4px solid #667eea; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"> <h3>⚡ EV Dealer Platform</h3> <p><em>Comprehensive electric vehicle marketplace</em></p> <div style="margin: 1rem 0;"> <span style="background: #667eea; color: white; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem; display: inline-block; margin: 0.2rem;">React</span> <span style="background: #667eea; color: white; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem; display: inline-block; margin: 0.2rem;">Spring Boot</span> <span style="background: #667eea; color: white; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem; display: inline-block; margin: 0.2rem;">MySQL</span> <span style="background: #667eea; color: white; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem; display: inline-block; margin: 0.2rem;">Docker</span> </div> <p>Vehicle marketplace • Dealer management • Analytics dashboard</p> </div><div style="flex: 1; min-width: 300px; background: #f8f9fa; padding: 1.5rem; border-radius: 12px; border-left: 4px solid #667eea; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"> <h3>💎 Sale Diamond</h3> <p><em>Advanced jewelry e-commerce platform</em></p> <div style="margin: 1rem 0;"> <span style="background: #667eea; color: white; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem; display: inline-block; margin: 0.2rem;">React</span> <span style="background: #667eea; color: white; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem; display: inline-block; margin: 0.2rem;">Spring Boot</span> <span style="background: #667eea; color: white; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem; display: inline-block; margin: 0.2rem;">Kafka</span> <span style="background: #667eea; color: white; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem; display: inline-block; margin: 0.2rem;">Redis</span> </div> <p>Order management • Real-time analytics • Inventory system</p> </div></div>
+📬 Get In Touch
+<div align="center" style="display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0;"><a href="mailto:phudz25022005@gmail.com" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a><a href="https://linkedin.com/in/devphu" style="text-decoration: none;"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a><a href="https://github.com/devphu" style="text-decoration: none;"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a><a href="https://your-portfolio-link.com" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /> </a></div><div align="center" style="margin-top: 1rem;"> <p style="color: #666; font-style: italic;">Feel free to reach out for collaborations or just a friendly chat! ☕</p> </div>
 <div align="center">
-
-*"First, solve the problem. Then, write the code."*  
-✨ **Let's build something amazing together!** ✨
-
-</div>
+"First, solve the problem. Then, write the code."
+✨ Let's build something amazing together! ✨
