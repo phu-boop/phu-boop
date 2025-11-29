@@ -1,47 +1,94 @@
-👋 Hi, I'm Phú
-Fullstack Developer | Java & React Enthusiast
-Building innovative web applications with modern technologies
-
-🚀 Featured Projects
-🤖 PickleCoach-AI
-Fullstack web app with AI analytics for Pickleball
-Tech: React, Spring Boot, MySQL, TensorFlow
-View on GitHub
-
-🚗 Electric Vehicle Dealer Platform
-Microservices architecture with real-time features
-Tech: React, Spring Boot, MySQL, Kafka, Firebase
-View on GitHub
-
-📊 GitHub Stats
-<div align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=devphu&show_icons=true&theme=radical&count_private=true" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devphu&layout=compact&theme=radical" /> </div>
-🛠️ Tech Stack
-Backend
-<div align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white" /> </div>
-Frontend
-<div align="center"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> </div>
-Database & DevOps
-<div align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> </div>
-📚 Currently Learning
-🚀 Microservices Architecture
-
-🤖 Machine Learning Integration
-
-📱 Advanced React Patterns
-
-☁️ Cloud Deployment (AWS)
+# Hi, I'm devphu 👋
 
 <div align="center">
-java
-while(alive()) {
-    code();
-    learn();
-    innovate();
-}
-https://komarev.com/ghpvc/?username=devphu&color=blueviolet&style=flat
+
+### **Fullstack Developer & AI Enthusiast**
+*Crafting scalable solutions with cutting-edge technologies*
 
 </div>
+
+## 🚀 About Me
+
+I'm a passionate developer who loves building robust applications using modern tech stacks. My expertise spans across full-stack development, real-time systems, and AI integration.
+
+---
+
+## 💻 Tech Stack
+
 <div align="center">
-Let's connect and build something amazing! 🚀
+
+### **Frontend**
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,nextjs" />
+
+### **Backend**  
+<img src="https://skillicons.dev/icons?i=java,spring,redis,nodejs" />
+
+### **AI & Real-time**
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+<span style="background:#333;padding:4px 8px;border-radius:4px;color:white;font-size:12px;">WebRTC</span>
+
+### **DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,aws,mysql" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devphu&layout=compact&theme=radical&hide=html,css&hide_border=true)
+
+</div>
+
+---
+
+## 🛠 Featured Projects
+
+<div style="display: flex; gap: 1rem; justify-content: space-between; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 250px;">
+<h3>🎯 Pickleball AI</h3>
+<p><em>Intelligent coaching platform with real-time analytics</em></p>
+<p><code>React</code> <code>Spring Boot</code> <code>TensorFlow</code> <code>WebRTC</code></p>
+<p>Real-time video analysis • AI-powered coaching • Performance tracking</p>
+</div>
+
+<div style="flex: 1; min-width: 250px;">
+<h3>⚡ EV Dealer Platform</h3>
+<p><em>Comprehensive electric vehicle marketplace</em></p>
+<p><code>React</code> <code>Spring Boot</code> <code>MySQL</code> <code>Docker</code></p>
+<p>Vehicle marketplace • Dealer management • Analytics dashboard</p>
+</div>
+
+<div style="flex: 1; min-width: 250px;">
+<h3>💎 Sale Diamond</h3>
+<p><em>Advanced jewelry e-commerce platform</em></p>
+<p><code>React</code> <code>Spring Boot</code> <code>Kafka</code> <code>Redis</code></p>
+<p>Order management • Real-time analytics • Inventory system</p>
+</div>
+
+</div>
+
+---
+
+## 📬 Get In Touch
+
+<div align="center" style="display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap;">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phudz25022005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devphu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devphu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*  
+✨ **Let's build something amazing together!** ✨
 
 </div>
