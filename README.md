@@ -1,4 +1,4 @@
-  Hi, I'm devphu 👋
+  Hi, I'm Phu 👋
   Fullstack Developer & AI Enthusiast
   
   Crafting scalable solutions with cutting-edge technologies
